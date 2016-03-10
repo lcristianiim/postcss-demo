@@ -1,0 +1,15 @@
+$color: blue;
+$default-font: 24px;
+
+body {
+    background: $color;
+    display: flex;
+}
+
+h1 {
+    font-size: $default-font;
+}
+
+h2 {
+    font-size: 20px;
+}
